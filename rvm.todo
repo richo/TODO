@@ -1,0 +1,5 @@
+Make rvm bail if there is more than one install (ie system wide + user
+wide)
+
+(16:05:43) Vladimír Bobeš Tužinský: possibly, look at
+/etc/profile.d/rvm.sh how it determines the rvm location

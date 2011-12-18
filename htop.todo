@@ -1,0 +1,2 @@
+update process titles (Doesn't poll for when $0 is updated)
+Don't segfault in tiny terminals

@@ -1,0 +1,12 @@
+Get motivated and write a library to control the front LED
+
+Move refit to the EFI partition instead of osx's boot volume (Means I can hose osx at some point)
+-> This is done, but makes boot take 30 seconds to load refit. Reverted.
+
+Just need to pull it open, have all th eparts
+    20:50 < Branes> One way to help dissipate heat would be to re-do the thermal coupling twixt CPU/GPU
+    and heatsink with a really good thermal compound like IC7. The Shinetsu crap AUO
+    apply is garbage, you'll notice a 5-12o C overall drop in temperatures across the
+    board.
+    20:51 < rich0> really?
+    20:51  * Branes nods*
