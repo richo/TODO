@@ -1,13 +1,47 @@
+Actual Todo Items
+=================
+
+(As opposed to the tests below)
+
+hilighting doesn't update itself on the fly.
+dynamic language hilighting
+folding doesn't work
+it'd be nice to use the correct indenting rules + omnicomplete for the code
+ blocks
+
+
+This should fold
+----------------
+
+# test
+
+## test
+
+### test
 omg recursive todo *stack explodes*
 
 (happily, this file will look like a unit test for my ideas)
 
 Add inline highlighting for other languages
 
-```language
+```python
 
-everything in here should be highlighted as per language.vim
+import test
 
+for i in range(15): print(i)
+```
+
+```ruby
+class Test
+    def rawr
+        puts "foo"
+    end
+end
 ```
 
 And this should be .todo again
+
+This should be in the next fold
+-------------------------------
+
+
