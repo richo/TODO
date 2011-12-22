@@ -1,4 +1,21 @@
+MULTIBYTE
+---------
+
 Actually fix these multibyte issues, instead of just hacking around them
+
+PRE/POSTCMD
+===========
 
 when the .title hax takes place, check to see if there's a gitignore, and if
 so, add it to the git ingoringness
+
+PROMPT
+======
+
+http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/
+Most of this post is bollox, but this is a good idea
+○ means “I’m not in any repository.”
+☿ means “I’m in a Mercurial repository.”
+± means “I’m in a git repository.”
+
+
