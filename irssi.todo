@@ -1,13 +1,6 @@
-goto commands:
-gotime time -> Go to timestamp
-- Already works, /goto time
-gocur | goend | something -> Go to bottom
-- Already works, /goto
-golast -> Go to the lastreadsplitbar thing.
-- Already works, /gototb
-
 Some kind of script for getting a sanitised copy of my environment for places I
 don't want my svn repo checked out
 
 Add scripts to fixery
 
+irssi itself is very fond of adding whitespace to it's config.
