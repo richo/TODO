@@ -1,0 +1,12 @@
+Git Snap
+========
+
+Usage
+
+git init .
+git remote add origin wherever
+git snap [fetch?] origin/thing
+git snap update
+git snap [fetch?] origin/thang
+
+Retrieves the bare minimum number of objects. Does it's best to keep size to a minimum
