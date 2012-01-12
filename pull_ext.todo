@@ -1,3 +1,5 @@
 Allow a user to bail on a pull and write out status, os that they can resume
 
 Can I poll github to work out what repos I should clone
+
+Pull the updated repos with a named pipe instead of the fd kludges
