@@ -9,6 +9,8 @@ folding doesn't work
 it'd be nice to use the correct indenting rules + omnicomplete for the code
  blocks
 
+tab completion for t command
+
 
 This should fold
 ----------------
