@@ -6,4 +6,17 @@ CONFIG
 
 Start, or finish.. or SOMETHING this damn config rewrite.
 
+COMMAND STRUCTURE
+=================
+
+Thinking that
+
+twat -> twat -f
+twat "tweet here" -> as per usual
+twat follow [user]
+twat list [user]
+
+etc etc
+
+
 
