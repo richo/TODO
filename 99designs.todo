@@ -1,0 +1,19 @@
+Ubuntu
+======
+
+Find out what current stable release is
+Update reprepo scripts on natalya for second release
+Port openbox patchset to ubuntu version
+*investigate backporting -current*
+
+Port urxvt patchset to ubuntu version
+*investigate backporting -current*
+
+Investigate porting metenvironment
+
+Questions for config weekend:
+
+What's preferred vmx suite
+What else do they do that could make linux a pain
+
+
