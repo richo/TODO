@@ -1,0 +1,13 @@
+RVM
+===
+
+Dotfile clobberination
+
+https://github.com/wayneeseguin/rvm/issues/774#issuecomment-4269524
+
+Whenever + Rvm
+==============
+
+Whenever invoking bash -l
+
+https://github.com/javan/whenever/issues/216#issuecomment-4231845
