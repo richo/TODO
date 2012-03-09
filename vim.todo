@@ -3,11 +3,4 @@ TextEnableCodeSnip in my \_local ftplugins doesn't seem to work
 chdir hook
 ==========
 
-Produce a bundlable plugin thing which exposes
-
-:Cd as an alternative to :chdir
-needs to have the same tab completion and semantics
-Create a custom ChDir augroup
-Bind a stack of hooks to it.
-
 (Make a concerted attempt to hook NERDtree and whatever else I can find to use :Cd)

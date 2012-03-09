@@ -1,3 +1,0 @@
-the colors in .profile.[hostname] don't work in bash any more because they reference zsh specific colors
-
-bash shim

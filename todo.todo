@@ -11,37 +11,3 @@ it'd be nice to use the correct indenting rules + omnicomplete for the code
 
 tab completion for t command
 
-
-This should fold
-----------------
-
-# test
-
-## test
-omg recursive todo *stack explodes*
-
-(happily, this file will look like a unit test for my ideas)
-
-Add inline highlighting for other languages
-
-```python
-
-import test
-
-for i in range(15): print(i)
-```
-
-```ruby
-class Test
-    def rawr
-        puts "foo"
-    end
-end
-```
-
-And this should be .todo again
-
-This should be in the next fold
--------------------------------
-
-
