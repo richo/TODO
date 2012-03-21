@@ -1,8 +1,5 @@
 Autostart on osx
 
-Get all patches working from brew
--> open PR on github
-
 Sort out environmental issues
 
 Program received signal EXC_BAD_ACCESS, Could not access memory.
