@@ -1,0 +1,17 @@
+Ruh roh
+looks like github may not actually support giving you a pin to sign the request token with
+We can bash up a webservice to catch the request and then curl it I guess
+
+Josh Benham @ 15:08 So they have pretty much made it impossible without a webserver /
+
+Rich Healey @ 15:09 Potentially, I'll see what I can hack up
+I had an idea for a distributed reverseproxy a while ago
+depending on how I go I might see if I can pull it off this weekend.. it'd be a pretty badass concept
+
+Josh Benham @ 15:10https://github.com/jwilger/github-v3-api/blob/master/github-v3-api-get-token <— they spin off sinatra lol
+Also any idea here lol
+  File "/home/developer/projects/python/github/github_cli/actions/issues.py", line 31, in execute
+      url = url + '?' + urllib.urlencode(get)
+      AttributeError: 'module' object has no attribute 'urlencode'
+
+      Rich Healey @ 15:10 basically a webservice that accepts a connection on a given port, accepts a key, and then when a client connects back to the url specified in the key it connects the sockets
