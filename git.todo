@@ -1,2 +1,5 @@
 Geotagging commits
 Git snap
+
+Start porting some of my config type stuff (auto_checkout, geotag_commits) to
+use git config as a backend instead of files in .git
